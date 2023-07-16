@@ -1,0 +1,12 @@
+﻿Study Static Analysis:1 started: 12/10/2021, 9:11:58 AM
+Number of configurations: 1
+Default mesh: 119332 elements, 186788 nodes
+Model separates into 2 independent components
+Soft spring was added
+Soft spring was added
+Solution time 13.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 12/10/2021, 9:12:42 AM
+Total time 0:00:44
+
